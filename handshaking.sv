@@ -1,4 +1,4 @@
-//////Driver-sequence handshaking mechanism
+//////Driver-sequence handshaking mechanism/////////////
 
 
 //test_class run_phase:start() method
